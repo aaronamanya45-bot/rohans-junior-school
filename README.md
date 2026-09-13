@@ -37,7 +37,6 @@ The Contact page contains a form that collects:
 - Message
 
 ## Accessibility Decisions
-
 - Every image has descriptive `alt` text.
 - Every form input has a `<label>` linked via the `for` attribute matching
   the input's `id`.
